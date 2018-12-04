@@ -4,7 +4,7 @@ In this project, we show some examples to extract information from semantic web 
 
 1. Which stadiums are used by which club?
 2. Who plays for which club?
-3. Which coaches a club with Spanish players?
+3. Who coaches a club with Spanish players?
 4. Which clubs have stadiums that named after a former president?
 5. Which teams have the most nationalities amongst their roster?
 
