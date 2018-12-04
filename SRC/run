@@ -1,0 +1,1 @@
+cd src && javac -cp ".:../dist/lib/*" rdfquery/*.java && java -cp ".:../dist/lib/*" rdfquery/Main
