@@ -9,7 +9,7 @@ In this project, we show some examples to extract information from semantic web 
 5. Which teams have the most nationalities amongst their roster?
 
 
-The instructions to run the files is shown in the SRC/README.txt file. Also, the SRC/Summary.pdf file contains a brief explanation of the tasks and the potential ways to improve the results
+The instructions to run the files is shown in the SRC/README.txt file. Also, the SRC/Summary.pdf file contains a brief explanation of the tasks and the potential ways to improve the results. The source files are located in the /SRC/src/rdfquery directory. In order to run all files together, main.java file should be called.
 
 
 
