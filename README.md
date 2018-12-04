@@ -1,6 +1,6 @@
 # Overview
 
-In this project, we show some examples to extract information from semantic web data using SPARQL queries. We a file of semantic data in soccer domain, and we try to retrieve some useful information from here. More precisely, we have five queries which extract the following informations:
+In this project, we show some examples to extract information from semantic web data using SPARQL queries. We an RDF file of in the domain of soccer, and we try to retrieve some useful information from here. More precisely, we have five queries which extract the following informations:
 
 1. Which stadiums are used by which club?
 2. Who plays for which club?
