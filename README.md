@@ -1,6 +1,6 @@
 # Overview
 
-In this project, we show some examples to extract information from semantic web data using SPARQL queries. We have an RDF file  in the domain of soccer, and we try to retrieve some useful information from here. More precisely, we have five queries which extract the following informations:
+In this project, we show some examples to extract information from semantic web data using SPARQL queries. We have an RDF file  in the domain of soccer, and we try to retrieve some useful information from here. More precisely, we have five queries which extract the following pieces of information:
 
 1. Which stadiums are used by which club?
 2. Who plays for which club?
@@ -9,7 +9,7 @@ In this project, we show some examples to extract information from semantic web 
 5. Which teams have the most nationalities amongst their roster?
 
 
-The instructions to run the files is shown in the SRC/README.txt file. Also, the SRC/Summary.pdf file contains a brief explanation of the tasks and the potential ways to improve the results. The source files are located in the /SRC/src/rdfquery directory. In order to run all files together, the main.java file should be called.
+The instructions to run the files are shown in the SRC/README.txt file. Also, the SRC/Summary.pdf file contains a brief explanation of the tasks and the potential ways to improve the results. The source files are located in the /SRC/src/rdfquery directory. In order to run all files together, the main.java file should be called.
 
 
 
